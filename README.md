@@ -1,6 +1,6 @@
 # Fake User Generator Project 👥
 
-Welcome to the Fake User Generator project! In this project, I utilized Node.js with Express.js along with the Faker library to generate 100 fake user profiles, each assigned a UUID. The generated data is stored in a MySQL database hosted on the online platform [FreeSQLDatabase.com](https://freesqldatabase.com/). The main point of this project focuses on understanding Database operations and deployment of it on internet.
+Welcome to the Fake User Generator project! In this project, I utilized Node.js with Express.js along with the Faker library to generate 100 fake user profiles, each assigned a UUID. The generated data is stored in a MySQL database hosted on the online platform [FreeSQLDatabase.com](https://freesqldatabase.com/). The main point of this project focuses on understanding Database operations and deployment of database on the internet.
 
 
 ## Features 🌟
@@ -23,11 +23,11 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/fake-user-generator.git
+   git clone https://github.com/NikhilKalloli/fake-users-SQL.git
    ```
 2. Navigate to the project directory:
     ```
-    cd fake-user-generator
+    cd fake-users-SQL
     ```
 3. Install dependencies:
     ```
